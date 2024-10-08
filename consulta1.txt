@@ -1,0 +1,6 @@
+Consulta SQL
+SELECT * FROM MOVIES
+
+Consulta 2
+SELECT * FROM ACTORS
+
